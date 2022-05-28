@@ -1,4 +1,5 @@
 <?php
+// program sederhana pendefinisian class dan pemanggilan class.
 
 class Mobil
 {
